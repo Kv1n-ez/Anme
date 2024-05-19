@@ -47,7 +47,6 @@ thumbnails.forEach((thumbnail, index) => {
       showSlider();
   })
 })
-
 btnb.onclick = function(){
     buscador.classList.add('active');
     btnc.classList.add('active');
